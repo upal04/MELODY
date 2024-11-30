@@ -1,0 +1,17 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    background-color: beige;
+    text-align: center;
+}
+legend{
+    text-align: center;
+    color: black;
+}
+fieldset{
+    text-align: center;
+}
+form{
+    background-color: aliceblue;
+}
